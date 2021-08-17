@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PPT-React/static/css/main.d1b05096.chunk.css",
+    "main.js": "/PPT-React/static/js/main.3d614229.chunk.js",
+    "main.js.map": "/PPT-React/static/js/main.3d614229.chunk.js.map",
+    "runtime-main.js": "/PPT-React/static/js/runtime-main.730d97d5.js",
+    "runtime-main.js.map": "/PPT-React/static/js/runtime-main.730d97d5.js.map",
+    "static/js/2.c0bd379e.chunk.js": "/PPT-React/static/js/2.c0bd379e.chunk.js",
+    "static/js/2.c0bd379e.chunk.js.map": "/PPT-React/static/js/2.c0bd379e.chunk.js.map",
+    "index.html": "/PPT-React/index.html",
+    "precache-manifest.6b1c59890b617ebd0ec4e0243999dd47.js": "/PPT-React/precache-manifest.6b1c59890b617ebd0ec4e0243999dd47.js",
+    "service-worker.js": "/PPT-React/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/PPT-React/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c0bd379e.chunk.js.LICENSE.txt": "/PPT-React/static/js/2.c0bd379e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.730d97d5.js",
+    "static/js/2.c0bd379e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3d614229.chunk.js"
+  ]
+}
